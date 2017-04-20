@@ -12,6 +12,7 @@ date: 2017-04-11 17:07:07
 - Github 地址：https://github.com/realtiger
 - 博客园地址：http://www.cnblogs.com/cdinc/
 - 知乎地址：https://www.zhihu.com/people/realtiger
+- LOFTER地址：http://realtiger.lofter.com/
 
 小真虎的博客，用来分享小真虎想分享的东西，也许有你需要的东西，也许没有你需要的东西，但是看看总没有坏处嘛。
 

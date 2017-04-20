@@ -76,3 +76,7 @@ deploy:
 search:
   path: search.xml
   field: post
+
+marked:
+  gfm: true
+  breaks: false
